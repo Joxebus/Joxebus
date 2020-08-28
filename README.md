@@ -1,4 +1,4 @@
-![GitHub Banner](/images/joxebus_banner_github.png)
+![GitHub Banner](https://github.com/Joxebus/Joxebus/blob/master/images/joxebus_banner_github.png?raw=true)
 
 ### About Me 👋
 I'm a Software Engineer with passion about technologies.
@@ -11,22 +11,11 @@ Please take a look to my projects here where I personally place some examples of
 
 
 ### 📫 How to reach me: 
-* Twitter [![Twitter][1.2]][1]
-* LinkedIn  [![LinkedIn][2.2]][2]
+<a href="https://twitter.com/Joxebus"><img height="30" src="https://github.com/Joxebus/Joxebus/blob/master/images/twitter.png?raw=true"></a> Follow me on Twitter 
+
+<a href="https://www.linkedin.com/in/Joxebus/"><img height="30" src="https://github.com/Joxebus/Joxebus/blob/master/images/linkedin.png?raw=true"></a> Contact me via LinkedIn 
 
 
-### 🔭 My Recent Project 
+### 🔭 My most recent project:
 
-I’m currently working on create a YouTube[![YouTube][3.2]][3] Channel to share content on Spanish about Programming
-
-<!-- Icons -->
-
-[1.2]: /images/twitter.png=20x20 (twitter icon without padding)
-[2.2]: /images/linkedin.png=20x20 (LinkedIn icon without padding)
-[3.2]: /images/linkedin.png=20x20 (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Joxebus
-[2]: https://www.linkedin.com/in/Joxebus/
-[3]: https://www.youtube.com/user/Joxebus/
+I’m currently working on create a <a href="https://www.youtube.com/user/Joxebus/"><img height="30" src="https://github.com/Joxebus/Joxebus/blob/master/images/youtube.png?raw=true"></a> YouTube Channel to share content on Spanish about Programming
